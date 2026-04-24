@@ -1,0 +1,23 @@
+{
+  "name": "kais",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kais.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.17",
+    "axios": "^1.15.2",
+    "axios-cookiejar-support": "^6.0.5",
+    "download-file": "^0.1.5",
+    "download-file-sync": "^1.0.4",
+    "ogr2ogr": "^6.0.1",
+    "original-fs": "^1.2.0",
+    "urlencode": "^2.0.0"
+  }
+}
