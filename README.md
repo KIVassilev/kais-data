@@ -2,6 +2,12 @@
 
 A tool to download and convert data from `https://kais.cadastre.bg/bg/OpenData`
 
+## Автоматично свали всички отворени данни от
+
+![KAIS Files on Web](doc/kais_web.png)
+
+## на локалния си компютър
+
 ![KAIS Files on Windows Data](doc/kais_windows.png)
 
 # Usage
