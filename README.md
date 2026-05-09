@@ -2,6 +2,8 @@
 
 A tool to download and convert data from `https://kais.cadastre.bg/bg/OpenData`
 
+![KAIS Files on Windows Data](doc/kais_windows.png)
+
 # Usage
 
 | Command                       | Description                                      |
@@ -10,3 +12,4 @@ A tool to download and convert data from `https://kais.cadastre.bg/bg/OpenData`
 | `node kais.js download`       | Download and extract zip files from list.json    |
 | `node kais.js shp2json`       | Convert .shp files in data/ to GeoJSON (EPSG:32635) |
 | `node kais.js flatten_geojson`| Rename geojson files in current directory        |
+
